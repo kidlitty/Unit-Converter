@@ -33,7 +33,9 @@ A production-ready unit conversion web application demonstrating core web develo
 ## Project Architecture
 src/
 ├── index.html # Semantic markup
+
 ├── style.css # Modern CSS layout
+
 └── script.js # Modular conversion logic
 
 
@@ -129,6 +131,7 @@ Planned enhancements demonstrating technical growth potential:
 ```bash
 git clone https://github.com/yourusername/unit-converter.git
 cd unit-converter
+```
 # Open index.html in modern browser
 
 License
@@ -137,6 +140,7 @@ MIT Licensed - See LICENSE for details
 
 Connect with Me
 https://github.com/kidlitty
+
 uphilentuli43@gmail.com
 
 Open to new opportunities and technical challenges
